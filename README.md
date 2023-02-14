@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://res.cloudinary.com/dthhqxm3n/image/upload/v1676359013/Banner_rnular.jpg" width="700"/>
+  <img src="https://res.cloudinary.com/dthhqxm3n/image/upload/v1676359013/Banner_rnular.jpg" width="90%"/>
 </div>
 
 <div id="badges" align="center">
@@ -28,6 +28,15 @@
 
 ---
 
+<div align="center">
+	<h3>GitHub Stats</h3>
+	<img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=in-deva&layout=compact&theme=vision-friendly-dark"  />
+	<img align="center" height="200px" src="http://github-readme-streak-stats.herokuapp.com?user=in-deva&theme=dark&background=000000" />
+</div>
+
+---
+
+&nbsp;
 ### Hi, I'm *Isaac* 👋
 
 &nbsp;&nbsp;&nbsp;&nbsp; I'm a Frontend Developer specialising in React.
@@ -63,5 +72,7 @@ Check out some of my projects:
 #### About Me
 
 On a more personal note...
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=in-deva&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=in-deva&theme=dark&background=000000)](https://git.io/streak-stats)
 
 -->

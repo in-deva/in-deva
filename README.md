@@ -1,4 +1,6 @@
-<div align="center">
+<!-- header  -->
+
+<div id="banner" align="center">
   <img src="https://res.cloudinary.com/dthhqxm3n/image/upload/v1676359013/Banner_rnular.jpg" width="90%"/>
 </div>
 
@@ -6,17 +8,19 @@
   <h3>Isaac Neville</h3>
   <h3>Frontend Developer</h3>
   <h3></h3>
-  <a href="sdnlvasdv">
+  <a target="_blank" href="https://www.linkedin.com/in/isaac--neville">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-linkedin-URL">
+  <a target="_blank" href="https://portfolio.isaacneville.me/">
 	  <img src="https://img.shields.io/badge/Portfolio-grey?Color=white&style=for-the-badge" alt="Portfolio Badge"/>
   </a>
 </div>
 
 ---
 
-<div align="center">
+<!-- overview  -->
+
+<div id="tech-stack" align="center">
   <h3>Tech Stack</h3>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -26,27 +30,37 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
----
+&nbsp;
 
-<div align="center">
+<div id="github-stats" align="center">
 	<h3>GitHub Stats</h3>
-	<img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=in-deva&layout=compact&theme=vision-friendly-dark"  />
-	<img align="center" height="200px" src="http://github-readme-streak-stats.herokuapp.com?user=in-deva&theme=dark&background=000000" />
+	<div>
+		<img align="center" height="200px" margin-bottom="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=in-deva&layout=compact&theme=vision-friendly-dark" />
+	</div>
+	&nbsp;
+	<div>
+		<img align="center" height="200px" src="http://github-readme-streak-stats.herokuapp.com?user=in-deva&theme=dark&background=000000" />
+	</div>
 </div>
 
 ---
 
+<!-- bio  -->
+
 &nbsp;
 ### Hi, I'm *Isaac* 👋
+&nbsp;
 
 &nbsp;&nbsp;&nbsp;&nbsp; I'm a Frontend Developer specialising in React.
 
-&nbsp;&nbsp;&nbsp;&nbsp; See my *LinkedIn* and *Portfolio* for an overview of my experience.
+&nbsp;&nbsp;&nbsp;&nbsp; See my <a target="_blank" href="https://www.linkedin.com/in/isaac--neville">*LinkedIn*</a> and <a target="_blank" href="https://portfolio.isaacneville.me/">*Portfolio*</a> for an overview of my experience.
 
-<div align="right">Last Updated: 2023-02-14</div>
+<!-- footer -->
 
-<!--
-**in-deva/in-deva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+&nbsp;
+<div align="right">Last updated: 2023-02-14</div>
+
+<!-- cuts
 
 Here are some ideas to get you started:
 

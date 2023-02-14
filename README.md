@@ -34,11 +34,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp; See my *LinkedIn* and *Portfolio* for an overview of my experience.
 
-
-
-#### Last Updated
-2023-02-14
-
+<div align="right">Last Updated: 2023-02-14</div>
 
 <!--
 **in-deva/in-deva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

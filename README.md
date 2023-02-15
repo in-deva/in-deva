@@ -30,22 +30,20 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 </div>
 <div align="center">
-  <img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg title=Bootstrap alt=Bootstrap width=40 height=40 />
   <img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original.svg title=Handlebars alt=Handlebars width=40 height=40 />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg title=Bootstrap alt=Bootstrap width=40 height=40 />
   <img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg title=Express alt=Express width=40 height=40 />
   <img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg title=MongoDB alt=MongoDB width=40 height=40 />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 </div>
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg title=GitHub alt=GitHub width=40 height=40 />
-  <img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg title=Heroku alt=Heroku width=40 height=40 />
-
-  <img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg title=Python alt=Python width=40 height=40 />
-  <img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg title=Markdown alt=Markdown width=40 height=40 />
-
   <img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg title=typescript alt=typescript width=40 height=40 />
   <img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg title=VSCode alt=VSCode width=40 height=40 />
+  <img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg title=Heroku alt=Heroku width=40 height=40 />
+  <img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg title=Python alt=Python width=40 height=40 />
+  <img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg title=Markdown alt=Markdown width=40 height=40 />
 </div>
 
 ---

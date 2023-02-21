@@ -36,18 +36,8 @@
   <img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg title=MongoDB alt=MongoDB width=40 height=40 />
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 </div>
-<div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg title=GitHub alt=GitHub width=40 height=40 />
-  <img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg title=typescript alt=typescript width=40 height=40 />
-  <img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg title=VSCode alt=VSCode width=40 height=40 />
-  <img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg title=Heroku alt=Heroku width=40 height=40 />
-  <img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg title=Python alt=Python width=40 height=40 />
-  <img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg title=Markdown alt=Markdown width=40 height=40 />
-</div>
 
 ---
-
 
 <div id="github-stats" align="center">
 	<h3>GitHub Stats</h3>
@@ -76,34 +66,3 @@
 
 &nbsp;
 <div align="right">Last updated: 2023-02-14</div>
-
-<!-- cuts
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-# Cuts
-
-#### Projects
-
-Check out some of my projects:
-- Google Clone
-- Airbnb Clone
-- Lookout
-- Follow My Trail
-
-#### About Me
-
-On a more personal note...
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=in-deva&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=in-deva&theme=dark&background=000000)](https://git.io/streak-stats)
-
--->

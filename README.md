@@ -41,9 +41,9 @@
 
 <div id="github-stats" align="center">
 	<h3>GitHub Stats</h3>
-	<div>
+<!-- 	<div>
 		<img align="center" height="200px" margin-bottom="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=in-deva&layout=compact&theme=vision-friendly-dark" />
-	</div>
+	</div> -->
 	&nbsp;
 	<div>
 		<img align="center" height="200px" src="http://github-readme-streak-stats.herokuapp.com?user=in-deva&theme=dark&background=000000" />

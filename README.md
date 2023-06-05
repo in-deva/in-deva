@@ -60,7 +60,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp; I'm a Frontend Developer specialising in React.
 
-&nbsp;&nbsp;&nbsp;&nbsp; See my <a target="_blank" href="https://www.linkedin.com/in/isaac--neville">*LinkedIn*</a> and <a target="_blank" href="https://portfolio.isaacneville.me/">*Portfolio*</a> for an overview of my experience.
+&nbsp;&nbsp;&nbsp;&nbsp; See my <a target="_blank" href="https://www.linkedin.com/in/isaac--neville">*LinkedIn*</a> for an overview of my experience.
+<!--  and <a target="_blank" href="https://portfolio.isaacneville.me/">*Portfolio*</a> -->
 
 <!-- footer -->
 

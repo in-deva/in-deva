@@ -11,9 +11,9 @@
   <a target="_blank" href="https://www.linkedin.com/in/isaac--neville">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
-  <a target="_blank" href="https://portfolio.isaacneville.me/">
+<!--   <a target="_blank" href="https://portfolio.isaacneville.me/">
 	  <img src="https://img.shields.io/badge/Portfolio-grey?Color=white&style=for-the-badge" alt="Portfolio Badge"/>
-  </a>
+  </a> -->
 </div>
 
 ---

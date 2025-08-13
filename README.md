@@ -6,7 +6,7 @@
 
 <div id="badges" align="center">
   <h3>Isaac Neville</h3>
-  <h3>Frontend Developer</h3>
+  <h3>Data Analyst</h3>
   <h3></h3>
   <a target="_blank" href="https://www.linkedin.com/in/isaac--neville">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
@@ -58,7 +58,7 @@
 ### Hi, I'm *Isaac* 👋
 &nbsp;
 
-&nbsp;&nbsp;&nbsp;&nbsp; I'm a Frontend Developer specialising in React.
+&nbsp;&nbsp;&nbsp;&nbsp; I'm a Data Analyst again.
 
 &nbsp;&nbsp;&nbsp;&nbsp; See my <a target="_blank" href="https://www.linkedin.com/in/isaac--neville">*LinkedIn*</a> for an overview of my experience.
 <!--  and <a target="_blank" href="https://portfolio.isaacneville.me/">*Portfolio*</a> -->
@@ -66,4 +66,4 @@
 <!-- footer -->
 
 &nbsp;
-<div align="right">Last updated: 2023-02-14</div>
+<div align="right">Last updated: 2025-08-13</div>

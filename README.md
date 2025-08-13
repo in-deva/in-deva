@@ -16,12 +16,11 @@
   </a> -->
 </div>
 
----
-
 <!-- overview  -->
 
 <div id="tech-stack" align="center">
   <h3>Tech Stack</h3>
+  <div align="center"> Power BI | Tableau | Fabric | SQL </div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 </div>
 <div align="center">
@@ -35,19 +34,6 @@
   <img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg title=Express alt=Express width=40 height=40 />
   <img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg title=MongoDB alt=MongoDB width=40 height=40 />
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-</div>
-
----
-
-<div id="github-stats" align="center">
-	<h3>GitHub Stats</h3>
-<!-- 	<div>
-		<img align="center" height="200px" margin-bottom="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=in-deva&layout=compact&theme=vision-friendly-dark" />
-	</div> -->
-	&nbsp;
-	<div>
-		<img align="center" height="200px" src="http://github-readme-streak-stats.herokuapp.com?user=in-deva&theme=dark&background=000000" />
-	</div>
 </div>
 
 ---
